@@ -25,5 +25,12 @@ Before running the program, make sure you have the following:
 - An OpenWeatherMap API key. You can sign up and get your API key from [here](https://openweathermap.org/api).
 
 ## Getting Started
+ 1.**clone the repository**:
+ 
+ 2.**Compile the Java program**
+     javac Weatherapp.java
+ 3.**Run the program**
+     java Weatherapp
+## output:
 
-### Compile the Java program
+
