@@ -32,5 +32,5 @@ Before running the program, make sure you have the following:
  3.**Run the program**
      java Weatherapp
 ## output:
-
+![Image](https://github.com/user-attachments/assets/1ac3d285-c78b-49c2-b115-af6a21d678ac)
 
